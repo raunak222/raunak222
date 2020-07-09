@@ -1,5 +1,5 @@
 ### Hi there 👋
-## My Name is Raunak Sarada and I am a ML and Computer Vision Enthusist
+## My Name is Raunak Sarada and I am a ML and Computer Vision Enthusiast
 
 
 - 🔭 I’m currently working ML with Azure Scholarship program
