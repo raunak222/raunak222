@@ -10,7 +10,7 @@
 <a href="https://www.instagram.com/raunak1999/">
   <img align="left" alt="Raunak's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://raunaksarada-cse21.medium.com/">
+<a href="https://raunaksarada.medium.com/">
   <img align="left" alt="Raunak's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 <br />
