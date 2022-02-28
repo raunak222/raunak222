@@ -17,10 +17,18 @@
 <br />
 
 
-- 🌱 I’m currently learning and practicing with ML and Computer Vision projects
-- 👯 I’m looking to collaborate on Machine Learning Projects
-- 🤔 I’m looking for help with understanding in Effective AI on healthcare and AGI
-- 💬 Ask me about ML and Computer Vision
-- 📫 How to reach me: raunaksarda222@gmail.com
+- 🌱 I’m a Full Stack Developer with Interest in Machine Learning. 
+- 👯 I’m looking to collaborate Projects which includes but not limited to  React, Express, Springboot.
+
+![Raunak's github stats](https://github-readme-stats.vercel.app/api?username=raunak222&theme=tokyonight&show_icons=true&hide=[%22issues%22])
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raunak222&theme=tokyonight&layout=compact)
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/raunak-sarada/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Piyush%20Agarwal-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/raunak1999/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-piyush.vo-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:raunaksarda222@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-piyushagarwalvo@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
 
 
