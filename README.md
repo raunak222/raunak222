@@ -21,7 +21,6 @@
 - 👯 I’m looking to collaborate Projects which includes but not limited to  React, Express, Springboot.
 
 ![Raunak's github stats](https://github-readme-stats.vercel.app/api?username=raunak222&theme=tokyonight&show_icons=true&hide=[%22issues%22])
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raunak222&theme=tokyonight&layout=compact)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
